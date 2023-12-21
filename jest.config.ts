@@ -20,7 +20,7 @@ export default (): Config => {
       '<rootDir>/coverage/'
     ],
     moduleNameMapper: {
-      '^@gutyerrez/nest\\-template/(.*)$': '<rootDir>/src/$1'
+      '^@vyrnn/nest\\-template/(.*)$': '<rootDir>/src/$1'
     }
   };
 };
