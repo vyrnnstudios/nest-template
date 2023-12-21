@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A NestJS template made for Vyrnn Studios.",
   "license": "MIT",
-  "type": "module",
   "private": false,
   "author": {
     "name": "Vyrnn Studios",
